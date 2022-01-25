@@ -1,1 +1,1 @@
-This repository contains datasets and code resources for paper: Transfer Learning in COVID-19: from UK, Germany to Malaysia. Please feel free to verify the codes and comment. Any suggestion is welcome.
+This repository contains datasets and code resources for paper: VSHR: A Mathematical Model for the Prediction of Second-Wave COVID-19 Epidemics in Malaysia. Please feel free to verify the codes and comment. Any suggestion is welcome.
